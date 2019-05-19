@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Welcome Introducer</string>
+
+    <string name="dummy">when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+
+    <string name="first_title">First Title</string>
+    <string name="first_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <string name="second_title">Second Title</string>
+    <string name="second_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <string name="third_title">Third Title</string>
+    <string name="third_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <string name="four_title">Four</string>
+    <string name="four_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <string name="five_title">Five</string>
+    <string name="five_desc">Desc1</string>
+
+    <string name="six_title">Six</string>
+    <string name="six_desc">Desc1</string>
+
+
+    <string name="my_preference">com.example.introslider</string>
+    <string name="my_preference_key">com.example.introslider_key</string>
+
+</resources>
